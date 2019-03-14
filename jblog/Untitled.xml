@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<?charles serialisation-version='2.0' ?>
+<mapLocal>
+  <toolEnabled>true</toolEnabled>
+  <mappings>
+    <mapLocalMapping>
+      <sourceLocation>
+        <protocol>http</protocol>
+        <host>localhost</host>
+        <port>3000</port>
+        <path>/list.json</path>
+      </sourceLocation>
+      <dest>/Users/yangpu-bt/personal/jblog/list.json</dest>
+      <enabled>true</enabled>
+      <caseSensitive>true</caseSensitive>
+    </mapLocalMapping>
+  </mappings>
+</mapLocal>
